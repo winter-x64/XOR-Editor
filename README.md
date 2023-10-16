@@ -22,9 +22,6 @@ Cross-Platform: XOR is compatible with Windows, macOS, and Linux.
 
 > Coming soon
 
-## Usage
-
-Once Snako is added to your server, you can use the `>help` command to see a list of available commands and get started. Visit the [XOR Documentation](https://github.com/winter-x64/XOR-Editor/wiki) for more detailed information on how to use the bot and configure its settings.
 
 ## Contributing
 
@@ -32,10 +29,10 @@ We welcome contributions from the community! If you have ideas for new games, ec
 
 ## Support
 
-If you encounter any issues or have questions about Snako, feel free to join our [Discord server](#) or create a GitHub issue.
+If you encounter any issues or have questions about XOR, feel free to join our [Discord server](#) or create a GitHub issue.
 
 ## License
 
-Snako is licensed under the [The GNU General Public License](LICENSE).
+XOR is licensed under the [The GNU General Public License](LICENSE).
 
 ---
