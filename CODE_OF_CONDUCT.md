@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Code of Conduct outlines the behavior and expectations for all contributors, maintainers, and users of the Discord bot open-source project using Nextcord and Firebase. We are committed to creating a positive and inclusive environment for collaboration, and we ask all participants to adhere to these guidelines.
+This Code of Conduct outlines the behavior and expectations for all contributors, maintainers, and users of the XOR Editor open-source project using Flet. We are committed to creating a positive and inclusive environment for collaboration, and we ask all participants to adhere to these guidelines.
 
 ## Our Pledge
 
@@ -44,7 +44,7 @@ The following behaviors are considered unacceptable within our community and wil
 
 If you believe someone is violating this Code of Conduct or you experience harassment or feel unsafe, please take the following steps:
 
-1. **Report:** Report the behavior to the project maintainers by contacting `sh4dowkai_x64` or shadowkaix64@gmail.com.
+1. **Report:** Report the behavior to the project maintainers by contacting `winter-x64` or itswinterx64@gmail.com.
 
 2. **Confidentiality:** All reports will be kept confidential, and your privacy will be respected.
 
@@ -56,4 +56,4 @@ This Code of Conduct is adapted from the Contributor Covenant (https://www.contr
 
 ## Conclusion
 
-We strive to create a welcoming and collaborative environment for everyone involved in our open-source Discord bot project. By participating in this community, you agree to uphold these guidelines and help us maintain a respectful and inclusive space for all.
+We strive to create a welcoming and collaborative environment for everyone involved in our open-source XOR project. By participating in this community, you agree to uphold these guidelines and help us maintain a respectful and inclusive space for all.
