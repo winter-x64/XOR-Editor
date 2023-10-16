@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "xor-editor"
+version = "0.1.0"
+description = ""
+authors = ["winter_x64 <75623356+winter-x64@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "xor_editor"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+flet = "^0.10.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
