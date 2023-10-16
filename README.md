@@ -3,7 +3,7 @@
 </p>
 
 
-XOR is an open-source text editor written in Python. It's designed to be a lightweight and user-friendly text editor, perfect for both novice and experienced programmers. With features like syntax highlighting, customizable themes, and extensibility, PyTextEditor is a versatile tool for your text editing needs.
+XOR is an open-source text editor written in Python. It's designed to be a lightweight and user-friendly text editor, perfect for both novice and experienced programmers. With features like syntax highlighting, customizable themes, and extensibility, XOR is a versatile tool for your text editing needs.
 
 ## Features (Coming Soon)
 Syntax Highlighting: **XOR** supports syntax highlighting for a wide range of programming languages, making it easy to write and edit code.
